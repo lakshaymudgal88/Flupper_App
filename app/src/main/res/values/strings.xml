@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flupper App</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="register">Register</string>
+    <string name="view_details">View Details</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
